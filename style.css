@@ -6,7 +6,7 @@
   font-family: 'Poppins', sans-serif;
 }
 ::selection{
-  color: #fff;
+  color: #f30808;
   background:#1f2cda;
 }
 body{
@@ -53,7 +53,7 @@ body{
   border: none;
   background: #fad503;
   border-radius: 5px;
-  color: #fff;
+  color: #bc2323;
   outline: none;
   cursor: pointer;
   transition: all 0.3s ease;
